@@ -1,7 +1,7 @@
-package jm.task.core.jdbc.dao;
+package jm.task.core.jdbc_and_hibernate.dao;
 
-import jm.task.core.jdbc.model.User;
-import jm.task.core.jdbc.util.Util;
+import jm.task.core.jdbc_and_hibernate.model.User;
+import jm.task.core.jdbc_and_hibernate.util.Util;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
